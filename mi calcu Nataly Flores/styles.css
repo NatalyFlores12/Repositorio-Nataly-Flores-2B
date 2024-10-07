@@ -1,0 +1,85 @@
+body{
+    background-color: #0da9d9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    margin: 0;
+    padding: 10rem;
+}
+
+.calculadora {
+    background-color:#008080;
+    border: 2px #002e67 solid;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    color: black;
+    padding: 2rem;
+    border-radius: 1rem;
+    gap: 0.5rem;
+    width: 40%;
+    height: 70%;
+    
+}
+
+.resultado{
+
+    background-color: #7fffd4;
+    border: 2px #002e67 solid;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    text-align: center;
+   
+    
+    
+}
+
+.suma{
+    background-color: #2be0b7;
+    border-radius: 4rem;
+    border: 2px black solid;
+    font-size: 1.5rem;
+}
+
+.resta{
+    background-color: #2be0b7;
+    border-radius: 4rem;
+    border: 2px black solid;
+    font-size: 1.5rem;
+}
+
+.multi{
+    background-color: #2be0b7;
+    border-radius: 4rem;
+    border: 2px black solid;
+    font-size: 1.5rem;
+}
+
+.pot{
+    background-color: #2be0b7;
+    border-radius: 4rem;
+    border: 2px black solid;
+    font-size: 1.5rem;
+}
+
+.div{
+    background-color: #2be0b7;
+    border-radius: 4rem;
+    border: 2px black solid;
+    font-size: 1.5rem;
+}
+
+.raiz{
+    background-color: #2be0b7;
+    border-radius: 4rem;
+    border: 2px black solid;
+    font-size: 1.5rem;
+}
+
+.bor{
+    background-color: #2be0b7;
+    border-radius: 4rem;
+    border: 2px black solid;
+    font-size: 1.5rem;
+
+}
